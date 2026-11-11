@@ -1,2 +1,2 @@
-# wordle_ranking
+# Wordle Ranking
 Counts your worlde tries.
